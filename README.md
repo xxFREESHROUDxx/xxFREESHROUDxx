@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on weather react application
 - 📫 How to reach me email: baibhavkc11@gmail.com
 
+VISITOR COUNT
 ![Visitor Count](https://profile-counter.glitch.me/xxfreeshroudxx/count.svg)
 
 <!---

@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on **AppBuzz**
 
+- 🌱 I’m currently learning **React JS and Node JS**
+
+- 📫 How to reach me **baibhavkc11@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/xxfreeshroudxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xxfreeshroudxx" height="30" width="40" /></a>

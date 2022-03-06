@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on weather react application
 - 📫 How to reach me email: baibhavkc11@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/xxfreeshroudxx/count.svg)
 
 <!---
 xxFREESHROUDxx/xxFREESHROUDxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baibhav KC</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer from Nepal</h3>
 
 
 - 👀 I’m interested in coding

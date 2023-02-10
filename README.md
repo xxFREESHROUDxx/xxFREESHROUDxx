@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Baibhav KC</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer and a freelancer from Nepal</h3>
 
 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning react and node js
-- 💞️ I’m looking to collaborate on weather react application
-- 📫 How to reach me : baibhavkc11@gmail.com
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning new tech ⚙ and new ideas💡 
+- 💞️ I’m looking to collaborate on weather application
+- 📫 How to reach me : baibhavkc11@gmail.com | www.baibhavkc.com.np
 
 <p align="center">VISITOR COUNT:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>

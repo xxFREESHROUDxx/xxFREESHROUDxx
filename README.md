@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning new tech ⚙ and new ideas💡 
-- 💞️ I’m looking to collaborate on weather application
+- 💞️ I’m really passionate about tech and stuff
 - 📫 How to reach me : baibhavkc11@gmail.com | www.baibhavkc.com.np
 
 <p align="center">VISITOR COUNT:</p>

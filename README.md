@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer and a freelancer from Nepal</h3>
 
 
-- 👀 I’m a frontend developer and I'am really interested in Fullstack development
+- 👀 I’m a frontend developer and I'm really interested in Fullstack development
 - 🌱 I’m currently learning MERN Stack and have a quite good understanding of Reactjs and Nodejs💡 
 - 💞️ I’m really passionate about tech and stuff and I am always motivated to learn new things in Web Development
 - 📫 How to reach me : baibhavkc11@gmail.com | www.baibhavkc.com.np

@@ -21,12 +21,3 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" /></p>
 
  <p align="center">Thankyou for visiting!</p>
-
-```mermaid
-pie
-    title New Pie Chart
-    "Food": 60
-    "Rent": 20
-    "Petrol": 5
-    "Entertainment": 15
-```

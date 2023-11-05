@@ -8,7 +8,7 @@
 - 📫 How to reach me : baibhavkc11@gmail.com | www.baibhavkc.com.np
 
 <p align="center">VISITOR COUNT:</p>
-<p align="center"><img width="64" height="128" src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
+<p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
 
 xxFREESHROUDxx/xxFREESHROUDxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
  <h2>Daily.dev Cards:</h2>
- <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="400" alt="Baibhav K.C's Dev Card"/></a>
+ <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="100" height="200" alt="Baibhav K.C's Dev Card"/></a>
 </div>
 
  <p align="center">Thankyou for visiting!</p>

@@ -11,8 +11,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
 
 <div style="display: flex;">
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xxfreeshroudxx&show_icons=true&locale=en" alt="xxfreeshroudxx" />
- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" />
+ <p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=xxfreeshroudxx&show_icons=true&locale=en" alt="xxfreeshroudxx" /></p>
+ <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" /></p>
 </div>
  
 <div>

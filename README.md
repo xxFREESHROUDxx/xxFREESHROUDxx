@@ -8,7 +8,7 @@
 - 📫 How to reach me : baibhavkc11@gmail.com | www.baibhavkc.com.np
 
 <p align="center">VISITOR COUNT:</p>
-<p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
+<p align="center"><img style={{height: 128px; width: 64px}} src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
 
 <h2>Daily.dev Cards:</h2>
 <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="400" alt="Baibhav K.C's Dev Card"/></a>

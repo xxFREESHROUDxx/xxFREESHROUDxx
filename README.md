@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" /></p>
 
-<h2>Daily.dev Cards:</h2>
-<a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="400" alt="Baibhav K.C's Dev Card"/></a>
+<div>
+ <h2>Daily.dev Cards:</h2>
+ <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="400" alt="Baibhav K.C's Dev Card"/></a>
+</div>
 
  <p align="center">Thankyou for visiting!</p>

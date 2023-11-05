@@ -10,9 +10,9 @@
 <p align="center">VISITOR COUNT:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
 
-<div style="display: flex;">
- <p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=xxfreeshroudxx&show_icons=true&locale=en" alt="xxfreeshroudxx" /></p>
- <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" /></p>
+<div style="display: flex; justify-content="space-between;">
+ <p width="49%"><img src="https://github-readme-stats.vercel.app/api?username=xxfreeshroudxx&show_icons=true&locale=en" alt="xxfreeshroudxx" /></p>
+ <p width="49%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" /></p>
 </div>
  
 <div>

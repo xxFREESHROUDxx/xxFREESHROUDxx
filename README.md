@@ -10,11 +10,10 @@
 <p align="center">VISITOR COUNT:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
 
-<div>
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xxfreeshroudxx&show_icons=true&locale=en" alt="xxfreeshroudxx" /></p>
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" /></p>
-</div>
- 
+Github Stats             |  Github streaks / Contributions
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-stats.vercel.app/api?username=xxfreeshroudxx&show_icons=true&locale=en" width="500" alt="xxfreeshroudxx" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxfreeshroudxx&" alt="xxfreeshroudxx" width="500" />
+
 <div>
  <h2>Daily.dev Cards:</h2>
  <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="300" alt="Baibhav K.C's Dev Card"/></a>

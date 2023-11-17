@@ -21,4 +21,4 @@ Github Stats             |  Github streaks / Contributions
 
 
 
- <p align="center">Thankyou for visiting!</p>
+ <h3 align="center">Thankyou for visiting!</h3>

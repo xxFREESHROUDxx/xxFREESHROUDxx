@@ -1,45 +1,21 @@
-name: DevCard
-
-permissions:
-  contents: write
-
+name: Generate Snake
 on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 0 * * *"
-
 jobs:
-  devcard:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.3.1
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+  
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
-  generate:
-    name: Generate Snake Animation
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    timeout-minutes: 5
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          github_user_name: xxFREESHROUDxx
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist

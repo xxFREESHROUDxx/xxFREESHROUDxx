@@ -19,19 +19,19 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
  <summary>
     <h2> 
-      <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/about.png" width="37" /> 
+      <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/about.png" width="37" /> 
     Resume
     </h2>
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/Bsc_CSIT-Tribhuwan_University-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-3.2/4-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/experience.gif" width="29"/> Experience</h4></summary>
    
   - **FullStack Developer** at Bookmundi Aps | 2nd October, 2023 - Present
     - Migrated old bookmundi website into NextJS which is still in progress.
@@ -52,7 +52,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  </details>
 
   <details>
-  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
    
   #### Languages
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -89,7 +89,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/projects.gif" width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/xxFREESHROUDxx/portfolio-website">Portfolio Website</a>
   <span><img src="https://camo.githubusercontent.com/6c3957842901e5baa389f3bb8758c8966683333b28493013062fcab5fab645e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"></span>
@@ -100,7 +100,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/stats.gif" width="32"/> Stats</h2></summary>
   
   ### GitHub
   <div align="center">
@@ -123,25 +123,25 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/xxFREESHROUDxx">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
+    <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/github.gif" width="70"/>
   </a>
   <a href="https://linkedin.com/in/baibhav-kc-388b571aa">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+    <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/linkedin.gif" width="70"/>
   </a>
   <a href="https://www.quora.com/profile/Baibhav-Kc">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
+    <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/quora.gif" width="70"/>
   </a>
 </div>
 
   
 </details>
 
-## <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/contact.gif" width="37"/> Contact Me
+## <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/contact.gif" width="37"/> Contact Me
 
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:baibhavkc11@gmail.com">
-      <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/main/icons/gmail.gif" width="100"/>
+      <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/gmail.gif" width="100"/>
     </a>
   </p>
 

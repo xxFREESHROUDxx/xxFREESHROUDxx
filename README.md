@@ -154,7 +154,13 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   </div>
 </details>
 
-![Snake animation](https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]()
+
+<div align="center">
+  <picture>
+    <img alt="github contribution grid snake animation" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://media.tenor.com/PmFzm4cXgLoAAAAi/thank-you-thank-u.gif" style="marginBottom: "-4px"/>

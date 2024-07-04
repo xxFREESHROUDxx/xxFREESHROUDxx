@@ -154,4 +154,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   </div>
 </details>
 
-<h3 align="center">Thankyou for visiting!</h3>
+<div align="center">
+  <img src="https://media.tenor.com/PmFzm4cXgLoAAAAi/thank-you-thank-u.gif" style="marginBottom: "-4px"/>
+</div>

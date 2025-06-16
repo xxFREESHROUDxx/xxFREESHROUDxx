@@ -5,9 +5,12 @@
   <br>
   Fullstack Developer
 </h2>
-<div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />x
-</div>
+  <div align="center">
+    <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="300" alt="Baibhav K.C's Dev Card"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+  </div>
+
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
@@ -97,7 +100,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/stats.gif" width="32"/> Github Stats</h2></summary>
   
   ### GitHub
   <div align="center">
@@ -109,8 +112,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxFREESHROUDxx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
    ![](https://github-readme-activity-graph.vercel.app/graph?username=xxFREESHROUDxx&theme=tokyo-night)<br/>
 
- <h2>Daily.dev Card:</h2>
- <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="300" alt="Baibhav K.C's Dev Card"/></a>
   </div>
   
 </details>

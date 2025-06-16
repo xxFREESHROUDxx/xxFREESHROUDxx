@@ -144,7 +144,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   </p>
 
 <details>
-  <summary>Click to see a random joke</summary>
+  <summary>Click to see a random tech joke</summary>
   <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)

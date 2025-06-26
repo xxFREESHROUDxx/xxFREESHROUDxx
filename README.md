@@ -3,7 +3,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
   <br>
   <br>
-  Fullstack Developer
+  Senior Software Engineer
 </h2>
   <div align="center">
     <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="300" alt="Baibhav K.C's Dev Card"/></a>
@@ -14,7 +14,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **ReactJS, NextJS, VueJS and NuxtJS** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate Senior Software Engineer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **ReactJS, NextJS, VueJS and NuxtJS** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
  <summary>

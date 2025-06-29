@@ -3,7 +3,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
   <br>
   <br>
-  Senior Software Engineer
+  FullStack Engineer
 </h2>
   <div align="center">
     <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="300" alt="Baibhav K.C's Dev Card"/></a>

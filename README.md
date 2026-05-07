@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="32px"/>, I'm Baibhav</h1>
 <h2 align="center"><p align="center">VISITOR COUNT:</p>
-![](https://komarev.com/ghpvc/?username=xxFREESHROUDxx)
+  <img src="https://komarev.com/ghpvc/?username=xxFREESHROUDxx&style=for-the-badge&base=1234&abbreviated=true" alt="Visitor Count" />
   <br>
   <br>
   FullStack Engineer

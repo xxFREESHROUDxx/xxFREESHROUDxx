@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=xxFREESHROUDxx&style=for-the-badge&base=1234&abbreviated=true" alt="Visitor Count" />
   <br>
   <br>
-  FullStack Engineer
+  Senior FullStack Engineer
 </h2>
   <div align="center">
     <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="300" alt="Baibhav K.C's Dev Card"/></a>
@@ -14,7 +14,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate FullStack Engineer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **ReactJS, NextJS, VueJS and NuxtJS** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate and results driven Senior FullStack Engineer with over 5 years of experience building and scaling high-performance web applications with a strong foundation in both frontend and backend technologies. Sepcialized in full-stack development using **ReactJS, NextJS, NestJS** with a passion for continuous learning and a proven track record of delivering robust, maintainable code and intuitive user experiences. Adept at performance optimization, accessibility, and SEO, leading to measurable gains in speed, usability, and conversion. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
  <summary>
@@ -26,17 +26,48 @@ I am a passionate FullStack Engineer with a strong foundation in both frontend a
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/Bsc_CSIT-Tribhuwan_University-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-3.2/4-EFEEE9?style=for-the-badge"></span>
+  <div>
+    <span><img src="https://img.shields.io/badge/Bsc_CSIT-Tribhuwan_University-1877F2?style=for-the-badge"></span>
+    <span><img src="https://img.shields.io/badge/GPA-3.2/4-EFEEE9?style=for-the-badge"></span>
+  </div>
+  <div>
+    <span><img src="https://img.shields.io/badge/+2 Science-Goldengate Int'l College-1877F2?style=for-the-badge"></span>
+    <span><img src="https://img.shields.io/badge/Divison-First-EFEEE9?style=for-the-badge"></span>
+  </div>
+   <div>
+    <span><img src="https://img.shields.io/badge/SLC-Glee Academy School-1877F2?style=for-the-badge"></span>
+    <span><img src="https://img.shields.io/badge/Division-Distinction-EFEEE9?style=for-the-badge"></span>
+  </div>
  </details>
-
+ 
  <details>
   <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/experience.gif" width="29"/> Experience</h4></summary>
    
-  - **FullStack Developer** at Bookmundi Aps | 2nd October, 2023 - Present
-    - Migrated old bookmundi website into NextJS which is still in progress.
-    - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%. 
-    - Upgraded old bookmundi website design with new modern styles. 
+  - **Senior Fullstack Engineer** at MusicGPT | July, 2025 - January 2026
+    - Led end-to-end development of a multi-speaker Text-to-Speech (TTS) system, owning architecture, UI, state management, and real-time audio workflows from scratch.
+    - Designed and implemented voice creation and management flows, including recording, file upload, YouTube import, waveform visualization, audio trimming, editing, and optimistic updates. 
+    - Built real-time lyrics transcription and improvement system using Socket.io, enabling live updates, AI-powered enhancements, and dynamic lyric editing workflows.
+    - Developed and enhanced core audio tools including Remix, Extend, Inpaint, Sing Over Instrumental, and Sound Generator, forming key revenue-driving product features.
+    - Re-architected Discover & Search experience, implementing intelligent cross-section search (songs, radio, playlists) and migrating state from Context API to Zustand.
+    - Implemented performance optimizations including aggressive caching strategies, Suspense boundaries, dynamic imports, and selective lodash imports, achieving ~80% bundle size reduction in affected areas.
+    - Improved onboarding and authentication flows with accessible, multi-language UI, welcome modals, surveys, and unified auth state management.
+    - Implemented internationalization (i18n) support across 8+ languages, including Japanese, Korean, Chinese, German, Spanish, French, Italian, and Portuguese.
+   
+  - **Senior Frontend Engineer** at Bookmundi Aps | October, 2023 - June 2025
+    - Successfully migrated the legacy website from PHP to Nuxt.js to Next.js.
+    - Created a Storybook implementation for component documentation to streamline development and ensure consistency across the UI.
+    - Integrated new APIs using Next.js for robust and seamless backend communication.
+    - Integrated Google Tag Manager for enhanced analytics and tracking.
+    - Enhanced website security measures for user validation and data protection.
+    - Optimized website performance by improving key web metrics such as LCP, CLS, and FCP, ensuring a faster and more responsive user experience.
+    - Set up Docker for efficient development and deployment processes.
+    - Integrated APIs using Redux Toolkit to simplify state management and improve code maintainability.
+    - Utilized server actions to create a highly SEO-friendly system, enhancing search engine visibility.
+    - Integrated a custom chat system using Pusher.js for real-time communication.
+    - Designed and developed user-friendly interfaces, improving usability and accessibility after the legacy system migration.
+    - Implemented lazy loading, image optimization, and dynamic imports to further improve performance and reduce load times.
+    - Ensured high accessibility standards (WCAG compliance) across the website.
+    - Delivered a fully responsive design, optimized for both mobile and desktop users.
 
   - **Frontend Developer** at Proshore Pvt. Ltd. | Feb 2023 - June 2024
     - Worked on a time tracking web application that can keep time logs records of users similar to Clockify. It was designed to replace Clockify for all the employees of the company. 

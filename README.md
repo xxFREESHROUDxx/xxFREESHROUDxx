@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="32px"/>, I'm Baibhav</h1>
 <h2 align="center"><p align="center">VISITOR COUNT:</p>
-<p align="center"><img src="https://profile-counter.glitch.me/xxfreeshroudxx/count.svg"</p>
+![Visitor Count](https://profile-counter.glitch.me/{xxfreeshroudxx}/count.svg)
   <br>
   <br>
   FullStack Engineer

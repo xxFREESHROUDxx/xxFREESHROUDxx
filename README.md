@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=xxFREESHROUDxx&style=for-the-badge&base=1234&abbreviated=true" alt="Visitor Count" />
   <br>
   <br>
-  Senior FullStack Engineer
+  Senior Frontend Developer
 </h2>
   <div align="center">
     <a href="https://app.daily.dev/baibhavkc89"><img src="https://api.daily.dev/devcards/7596fea9d9984f04b1552e5310600481.png?r=s3x" width="300" alt="Baibhav K.C's Dev Card"/></a>
@@ -14,7 +14,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate and results driven Senior FullStack Engineer with over 5 years of experience building and scaling high-performance web applications with a strong foundation in both frontend and backend technologies. Sepcialized in full-stack development using **ReactJS, NextJS, NestJS** with a passion for continuous learning and a proven track record of delivering robust, maintainable code and intuitive user experiences. Adept at performance optimization, accessibility, and SEO, leading to measurable gains in speed, usability, and conversion. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate and results driven Senior Frontend Developer with over 5 years of experience building and scaling high-performance web applications with a strong foundation in both frontend and backend technologies. Sepcialized in frontend development using **ReactJS, NextJS** with a passion for continuous learning and a proven track record of delivering robust, maintainable code and intuitive user experiences. Adept at performance optimization, accessibility, and SEO, leading to measurable gains in speed, usability, and conversion. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
  <summary>
@@ -43,7 +43,7 @@ I am a passionate and results driven Senior FullStack Engineer with over 5 years
  <details>
   <summary><h4> <img align="center" src="https://github.com/xxFREESHROUDxx/xxFREESHROUDxx/blob/icons/experience.gif" width="29"/> Experience</h4></summary>
    
-  - **Senior Fullstack Engineer** at MusicGPT | July, 2025 - January 2026
+  - **Senior Frontend Developer** at MusicGPT | July, 2025 - January 2026
     - Led end-to-end development of a multi-speaker Text-to-Speech (TTS) system, owning architecture, UI, state management, and real-time audio workflows from scratch.
     - Designed and implemented voice creation and management flows, including recording, file upload, YouTube import, waveform visualization, audio trimming, editing, and optimistic updates. 
     - Built real-time lyrics transcription and improvement system using Socket.io, enabling live updates, AI-powered enhancements, and dynamic lyric editing workflows.
@@ -53,7 +53,7 @@ I am a passionate and results driven Senior FullStack Engineer with over 5 years
     - Improved onboarding and authentication flows with accessible, multi-language UI, welcome modals, surveys, and unified auth state management.
     - Implemented internationalization (i18n) support across 8+ languages, including Japanese, Korean, Chinese, German, Spanish, French, Italian, and Portuguese.
    
-  - **Senior Frontend Engineer** at Bookmundi Aps | October, 2023 - June 2025
+  - **Senior Frontend Developer** at Bookmundi Aps | October, 2023 - June 2025
     - Successfully migrated the legacy website from PHP to Nuxt.js to Next.js.
     - Created a Storybook implementation for component documentation to streamline development and ensure consistency across the UI.
     - Integrated new APIs using Next.js for robust and seamless backend communication.
@@ -68,11 +68,6 @@ I am a passionate and results driven Senior FullStack Engineer with over 5 years
     - Implemented lazy loading, image optimization, and dynamic imports to further improve performance and reduce load times.
     - Ensured high accessibility standards (WCAG compliance) across the website.
     - Delivered a fully responsive design, optimized for both mobile and desktop users.
-
-  - **Frontend Developer** at Proshore Pvt. Ltd. | Feb 2023 - June 2024
-    - Worked on a time tracking web application that can keep time logs records of users similar to Clockify. It was designed to replace Clockify for all the employees of the company. 
-    - The primary objective of the project was to provide users with a straightforward and intuitive time tracking solution.
-    - The technologies utilized for this project included React, HTML, CSS, JavaScript, and Tailwind CSS. Additionally, we incorporated API calls, including bearer tokens, to ensure seamless integration with the backend.
 
   - **Frontend Developer** at Lightweb Group Pvt. Ltd. | Jan 2020 - May 2022
     - Started as a frontend developer after a successful 6-month internship. Transitioned from personal projects to handling professional tasks.
